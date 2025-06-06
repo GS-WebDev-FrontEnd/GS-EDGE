@@ -1,6 +1,7 @@
 # GS-EDGE
 
- Sistema de Monitoramento de Alagamentos
+ Sistema de Monitoramento de Alagamentos:
+
 Este protótipo é um sistema de monitoramento de alagamentos desenvolvido com Arduino Uno. Ele utiliza sensores para medir o nível da água e detectar presença de chuva, exibindo os resultados em um display LCD 16x2. O sistema também aciona LEDs e um buzzer para alertar o usuário sobre a gravidade da situação.
 
 Funcionalidade:
