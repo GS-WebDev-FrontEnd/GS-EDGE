@@ -75,9 +75,11 @@ Simular o Projeto:
 
 Use a plataforma Wokwi para fazer a simulação.
 
-  Demonstração:
+Demonstração:
+
 Assista ao vídeo explicativo, mostrando o funcionamento do sistema, desafios enfrentados e como foram resolvidos:
 
+https://youtu.be/JYOqHQxrp2c
 
 Integrantes do grupo:
 
